@@ -24,7 +24,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -46,8 +46,8 @@
 
 ### Blogs
 
-- https://medium.com/@adarshsingh1407/js-design-patterns-creational-factory-pattern-aff33fb02473
-- https://medium.com/@adarshsingh1407/js-design-patterns-constructor-pattern-81136d15226f
-- https://medium.com/@adarshsingh1407/react-champ-part-ii-when-to-use-controlled-uncontrolled-components-870f42cf398
-- https://medium.com/@adarshsingh1407/react-champ-part-i-controlled-vs-uncontrolled-components-9af452277d79
-- https://medium.com/@adarshsingh1407/creating-server-rendered-ssr-progressive-web-apps-pwa-using-react-16-react-router-4-and-express-f486d44d8352
+- [JS Design Patterns - Factory Pattern](https://medium.com/@adarshsingh1407/js-design-patterns-creational-factory-pattern-aff33fb02473)
+- [JS Design Patterns - Constructor Pattern](https://medium.com/@adarshsingh1407/js-design-patterns-constructor-pattern-81136d15226f)
+- [ReactJS - When to use uncontrolled components](https://medium.com/@adarshsingh1407/react-champ-part-ii-when-to-use-controlled-uncontrolled-components-870f42cf398)
+- [ReactJS - Controlled vs Uncontrolled Components](https://medium.com/@adarshsingh1407/react-champ-part-i-controlled-vs-uncontrolled-components-9af452277d79)
+- [ReactJS - Server-rendered PWA using CRA](https://medium.com/@adarshsingh1407/creating-server-rendered-ssr-progressive-web-apps-pwa-using-react-16-react-router-4-and-express-f486d44d8352)
