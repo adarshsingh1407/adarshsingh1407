@@ -1,7 +1,4 @@
 ### Adarsh Singh
-#### Lead Product Engineer
-##### 💻 FactoryOne Pvt Ltd
-
 
 [<img align="left" alt="adarshsingh1407@gmail.com | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:adarshsingh1407@gmail.com)
 [<img align="left" alt="adarshsingh1407 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adarshsingh1407/)
@@ -9,7 +6,7 @@
 [<img align="left" alt="adarshsingh14.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://adarshsingh14.com)
 
 
-<br/><br/>
+<br/>
 
 
 🔭 Lead Product Engineer @ FactoryOne Pvt Ltd<br/>
