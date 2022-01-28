@@ -44,7 +44,7 @@
 <br />
 <br />
 
-#### Recent Blogs
+### Blogs
 
 - https://medium.com/@adarshsingh1407/js-design-patterns-creational-factory-pattern-aff33fb02473
 - https://medium.com/@adarshsingh1407/js-design-patterns-constructor-pattern-81136d15226f
