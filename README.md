@@ -6,7 +6,8 @@
 [<img align="left" alt="adarshsingh14.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://adarshsingh14.com)
 
 
-<br/>
+<br />
+<br />
 
 
 🔭 Lead Product Engineer @ FactoryOne Pvt Ltd<br/>
