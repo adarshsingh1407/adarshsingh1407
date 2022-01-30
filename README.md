@@ -11,6 +11,8 @@
 
 
 🔭 Lead Product Engineer @ FactoryOne Pvt Ltd<br/>
+🚀 We're hiring! @factoryplus
+💻 Learning Serverless these days!
 👥 I’m looking to collaborate on JS-based open-source projects<br/>
 💬 Ask me about ReactJS, NodeJS, GraphQL<br/>
 ⚡ Interests: Music - Classic Rock/K-Pop, Movies - Sci-fi,Foreign Language<br/>
