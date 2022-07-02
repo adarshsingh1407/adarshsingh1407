@@ -1,7 +1,5 @@
 # Adarsh Singh
 
-## 🚀 <b>`We're hiring! @FactoryPlus`</b><br />
-
 [<img align="left" alt="adarshsingh1407@gmail.com | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:adarshsingh1407@gmail.com)
 [<img align="left" alt="adarshsingh1407 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adarshsingh1407/)
 [<img align="left" alt="adarshsingh1407 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@adarshsingh1407)
