@@ -11,7 +11,7 @@
 
 
 🔭 Lead Product Engineer @FactoryOne Pvt Ltd<br/>
-💻 Learning Serverless these days!<br />
+💻 Done with serverless(Lambda), now learning automation(CI/CD) and working on some open-source projects to help the community!<br />
 👥 I’m looking to collaborate on JS-based open-source projects<br/>
 💬 Ask me about ReactJS, NodeJS, GraphQL<br/>
 ⚡ Interests: Music - Classic Rock/K-Pop, Movies - Sci-fi,Foreign Language<br/>
