@@ -10,9 +10,9 @@
 <br />
 
 
-🔭 Lead Product Engineer @FactoryOne Pvt Ltd<br/>
-💻 Done with serverless(Lambda), now learning automation(CI/CD) and working on some open-source projects to help the community!<br />
-👥 I’m looking to collaborate on JS-based open-source projects<br/>
+🔭 Senior Software Engineer @Velotio Tech Pvt Ltd<br/>
+💻 Done with serverless(Lambda) using Serverless Framework, now learning automation(CI/CD) and the latest in React18!<br />
+👥 Open to collaborate on JS-based open-source projects<br/>
 💬 Ask me about ReactJS, NodeJS, GraphQL<br/>
 ⚡ Interests: Music - Classic Rock/K-Pop, Movies - Sci-fi,Foreign Language<br/>
 
