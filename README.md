@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
+<h1 align="center">Adarsh Singh</h1>
 <h3 align="center">Lead Software Engineer · ReactJS, Next.js, JS/TS, GraphQL · CSM®</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=580&lines=10%2B+years+building+web+apps+across+the+stack;Lately+living+in+the+Next.js+%2F+React+ecosystem;Ask+me+about+React%2C+GraphQL%2C+TypeScript%2C+Node.js;Open+to+JS%2FTS+open-source+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=10%2B+years+building+web+applications;Currently+focused+on+the+Next.js+%2F+React+ecosystem" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,25 +12,18 @@
   <a href="http://adarshsingh14.com"><img src="https://img.shields.io/badge/Portfolio-adarshsingh14.com-4B32C3?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshsingh1407&label=Profile%20Views&color=61DAFB&style=flat" alt="Profile views" />
-</p>
+---
+
+### About
+
+- Lead Software Engineer @ **R Systems** — building web products with React, Next.js, Node.js & GraphQL
+- 10+ years across product and service companies, front-end focused, full-stack capable
+- Certified Scrum Master (CSM®); have led front-end/back-end teams and driven engineering standards
+- Open to collaborating on JS/TS open-source projects
 
 ---
 
-### 🧭 About Me
-
-🔭 Lead Software Engineer @ **R Systems**, building web products with React, Next.js, Node.js & GraphQL<br/>
-💼 10+ years across product and service companies — front-end focused today, still comfortable in the back end<br/>
-🎓 Certified Scrum Master (CSM®) — I fill in as scrum master when the team needs it<br/>
-👥 Open to collaborating on JS/TS open-source projects<br/>
-💬 Ask me about React, Next.js, Node.js, GraphQL, TypeScript<br/>
-✍️ I write about JS design patterns and React internals on Medium<br/>
-⚡ Off-screen: Classic Rock & K-Pop, sci-fi movies, picking up new languages<br/>
-
----
-
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
 <img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/bc9b677c85a4dbe12896bd01530116f8861d3ebb/topics/nextjs/nextjs.png" />
@@ -55,22 +48,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img align="center" height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=adarshsingh1407&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh1407&theme=vue-dark&hide_border=true" alt="GitHub streak" />
+  <img align="center" width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=adarshsingh1407&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=adarshsingh1407&theme=vue-dark&hide_border=true&langs_count=6&layout=compact" alt="Top languages" />
+  <img align="center" width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=adarshsingh1407&theme=vue-dark&hide_border=true&langs_count=6&layout=compact" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshsingh1407&theme=react-dark&hide_border=true" alt="Activity graph" />
+  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh1407&theme=vue-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### 💼 Experience
+### Experience
 
 <details>
 <summary><b>Lead Software Engineer @ R Systems</b> — Oct 2022 – Present</summary>
@@ -102,7 +94,7 @@ Full-stack development (Angular, Java Dropwizard/SpringBoot) across product and 
 
 ---
 
-### ✍️ Recent Blogs
+### Recent Blogs
 
 - [JS Design Patterns — Factory Pattern](https://medium.com/@adarshsingh1407/js-design-patterns-creational-factory-pattern-aff33fb02473)
 - [JS Design Patterns — Constructor Pattern](https://medium.com/@adarshsingh1407/js-design-patterns-constructor-pattern-81136d15226f)
