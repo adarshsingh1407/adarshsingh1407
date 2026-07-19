@@ -21,41 +21,17 @@
 
 ---
 
-### Languages & Tools
-
-<p align="left">
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/bc9b677c85a4dbe12896bd01530116f8861d3ebb/topics/nextjs/nextjs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</p>
-
-<br clear="left"/>
-<br />
-
----
-
-### GitHub Stats
+### Core Stack
 
 <p align="center">
-  <img align="center" width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=adarshsingh1407&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img align="center" width="100%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=adarshsingh1407&theme=vue-dark&hide_border=true&langs_count=6&layout=compact" alt="Top languages" />
-</p>
-<p align="center">
-  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh1407&theme=vue-dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
@@ -101,3 +77,12 @@ Full-stack development (Angular, Java Dropwizard/SpringBoot) across product and 
 - [ReactJS — Server-Rendered PWA Using CRA](https://medium.com/@adarshsingh1407/creating-server-rendered-ssr-progressive-web-apps-pwa-using-react-16-react-router-4-and-express-f486d44d8352)
 
 <p align="center"><a href="https://medium.com/@adarshsingh1407">→ More on Medium</a></p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img align="center" height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=adarshsingh1407&theme=vue-dark&hide_border=true&langs_count=6&layout=compact" alt="Top languages" />
+  <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsingh1407&theme=vue-dark&hide_border=true" alt="GitHub streak" />
+</p>
