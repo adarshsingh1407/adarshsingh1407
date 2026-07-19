@@ -1,9 +1,7 @@
 <h1 align="center">Adarsh Singh</h1>
-<h3 align="center">Lead Software Engineer · ReactJS, Next.js, JS/TS, GraphQL · CSM®</h3>
+<h3 align="center">Lead Software Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=10%2B+years+building+web+applications;Currently+focused+on+the+Next.js+%2F+React+ecosystem" alt="Typing SVG" />
-</p>
+<p align="center"><i>10+ years building web applications · Currently focused on the Next.js / React ecosystem</i></p>
 
 <p align="center">
   <a href="mailto:adarshsingh1407@gmail.com"><img src="https://img.shields.io/badge/Email-adarshsingh1407%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
