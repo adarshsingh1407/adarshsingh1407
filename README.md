@@ -42,28 +42,37 @@
 <summary><b>Lead Software Engineer @ R Systems</b> — Oct 2022 – Present</summary>
 <br/>
 
-Remote. Leading front-end and full-stack delivery on ReactJS/Next.js and Node.js products.
+- Architected platform-level work for a correctional-education LMS: event-driven onboarding pipeline, an admin portal, multiple third-party integrations, and infra/incident remediation
+- Senior React/Next.js/GraphQL engineer across additional client engagements — sole-owned a smart-TV web app end-to-end, shipped a reusable paywall framework for a product-led-growth initiative, and built GraphQL/Apollo data layers
 </details>
 
 <details>
 <summary><b>Lead Product Engineer @ FactoryPlus</b> — Dec 2021 – Oct 2022</summary>
 <br/>
 
-Managed front-end and back-end teams building a SaaS platform for factory (MSME) management. Improved delivery time via coding standards, tooling, and reusability-focused sessions. Stack: ReactJS, Redux, NodeJS, Serverless (Lambda).
+- Led front-end and back-end teams building a SaaS platform for factory (MSME) management
+- Cut delivery time by introducing coding standards, automated tooling, and code-reusability sessions
+- Built RESTful APIs in Node.js/Express, contributing directly to backend delivery
+- Stack: ReactJS, Redux, Node.js, Express, Serverless (AWS Lambda)
 </details>
 
 <details>
 <summary><b>Associate L2, Experience Technology @ Publicis Sapient</b> — May 2019 – Dec 2021</summary>
 <br/>
 
-Worked on GraphQL and React across internal and client e-commerce projects. Improved a legacy React app's performance by 60% (bundle size) and 30% (build time).
+- Built and maintained GraphQL + React applications across internal and client projects in the E-Commerce vertical
+- Re-architected a legacy React app: 60% lighter bundle, 30% faster builds
 </details>
 
 <details>
 <summary>Earlier roles: PetroIT · ABCplusD · FarmGuide India · Kwench (2015 – 2019)</summary>
 <br/>
 
-Full-stack development (Angular, Java Dropwizard/SpringBoot) across product and service teams. Full history on <a href="https://www.linkedin.com/in/adarshsingh1407/">LinkedIn</a>.
+- PetroIT / ABCplusD (Chimes Pvt Ltd): resource-management applications for petroleum companies worldwide, progressing from software engineer to lead
+- FarmGuide India: front-end development for an AgriTech product
+- Kwench: full-stack development (Angular + Java Dropwizard) for an employee-engagement platform
+
+Full history on <a href="https://www.linkedin.com/in/adarshsingh1407/">LinkedIn</a>.
 </details>
 
 ---
